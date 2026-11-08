@@ -14,8 +14,7 @@ Build and evaluate five supervised classification algorithms on one common datas
 - The included `test_data.csv` contains the held-out test features and the `target` column.
 
 ## c. GitHub Repository Link
-Add your repository URL here after creating the GitHub repository: **[PASTE YOUR GITHUB REPOSITORY URL HERE]**
-
+https://github.com/ritik21344/ML-Classification-Assignment-2
 ## d. Models used
 
 The five classifiers are Logistic Regression, Decision Tree, K-Nearest Neighbors, Gaussian Naive Bayes, and Support Vector Machine.
