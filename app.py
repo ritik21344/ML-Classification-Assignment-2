@@ -1,3 +1,4 @@
+import json
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -11,7 +12,7 @@ from sklearn.metrics import (
 
 st.set_page_config(page_title="ML Classification Model Evaluator", page_icon="📊", layout="wide")
 ROOT = Path(__file__).parent
-MODEL_DIR = ROOT / "model"
+MODEL_DIR = ROOT
 MODEL_FILES = {
     "Logistic Regression": "logistic_regression.joblib",
     "Decision Tree": "decision_tree.joblib",
