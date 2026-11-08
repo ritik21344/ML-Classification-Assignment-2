@@ -1,0 +1,5 @@
+Dataset: Breast Cancer Wisconsin (Diagnostic)
+Loader: sklearn.datasets.load_breast_cancer(as_frame=True)
+Original dataset information: https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
+569 rows, 30 numeric features, binary target.
+Target encoding used by scikit-learn: 0=malignant, 1=benign.
