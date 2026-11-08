@@ -44,7 +44,7 @@ Metrics are calculated on the same held-out test set. AUC uses the predicted pro
 ## Streamlit application
 The app allows a user to upload a labelled CSV, select a saved classifier, view Accuracy, AUC, Precision, Recall, F1 and MCC, and inspect a confusion matrix and classification report. It also compares all five saved models on the uploaded test data. The app does not train models on uploaded test data.
 
-**Live Streamlit App:** [PASTE YOUR DEPLOYED STREAMLIT URL HERE]
+**Live Streamlit App:** https://ml-classification-assignment-2-zo6nkrkryumivrhtfdm2xf.streamlit.app/
 
 ## Repository contents
 - `app.py` — Streamlit application.
